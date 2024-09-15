@@ -1,0 +1,51 @@
+Gender,Age,Weight (kg),Height (cm),BMI,Physical Activity Level,Cholesterol Level,Blood Pressure (mmHg),Diet Type,Strict Diet Needed
+Female,28,68,165,24.98,Moderate,Normal,120/80,Keto,Yes
+Male,35,85,175,27.76,Low,High,140/90,Vegan,No
+Female,42,75,160,29.3,High,Normal,130/85,Paleo,Yes
+Male,30,92,180,28.4,Moderate,Borderline High,135/88,Mediterranean,No
+Female,25,55,158,22.03,High,Normal,115/75,Keto,No
+Male,50,95,178,29.98,Low,High,145/92,Low-Carb,Yes
+Female,33,70,162,26.67,Moderate,Borderline High,130/85,Vegan,No
+Male,40,78,168,27.63,Moderate,Normal,125/80,Paleo,No
+Female,29,62,160,24.22,High,Normal,118/76,Mediterranean,Yes
+Male,38,88,172,29.76,Low,High,140/90,Keto,Yes
+Female,28,68,165,24.98,Moderate,Normal,120/80,Keto,Yes
+Male,35,85,175,27.76,Low,High,140/90,Vegan,No
+Female,42,75,160,29.3,High,Normal,130/85,Paleo,Yes
+Male,30,92,180,28.4,Moderate,Borderline High,135/88,Mediterranean,No
+Female,25,55,158,22.03,High,Normal,115/75,Keto,No
+Male,50,95,178,29.98,Low,High,145/92,Low-Carb,Yes
+Female,33,70,162,26.67,Moderate,Borderline High,130/85,Vegan,No
+Male,40,78,168,27.63,Moderate,Normal,125/80,Paleo,No
+Female,29,62,160,24.22,High,Normal,118/76,Mediterranean,Yes
+Male,38,88,172,29.76,Low,High,140/90,Keto,Yes
+Female,28,68,165,24.98,Moderate,Normal,120/80,Keto,Yes
+Male,35,85,175,27.76,Low,High,140/90,Vegan,No
+Female,42,75,160,29.3,High,Normal,130/85,Paleo,Yes
+Male,30,92,180,28.4,Moderate,Borderline High,135/88,Mediterranean,No
+Female,25,55,158,22.03,High,Normal,115/75,Keto,No
+Male,50,95,178,29.98,Low,High,145/92,Low-Carb,Yes
+Female,33,70,162,26.67,Moderate,Borderline High,130/85,Vegan,No
+Male,40,78,168,27.63,Moderate,Normal,125/80,Paleo,No
+Female,29,62,160,24.22,High,Normal,118/76,Mediterranean,Yes
+Male,38,88,172,29.76,Low,High,140/90,Keto,Yes
+Female,28,68,165,24.98,Moderate,Normal,120/80,Keto,Yes
+Male,35,85,175,27.76,Low,High,140/90,Vegan,No
+Female,42,75,160,29.3,High,Normal,130/85,Paleo,Yes
+Male,30,92,180,28.4,Moderate,Borderline High,135/88,Mediterranean,No
+Female,25,55,158,22.03,High,Normal,115/75,Keto,No
+Male,50,95,178,29.98,Low,High,145/92,Low-Carb,Yes
+Female,33,70,162,26.67,Moderate,Borderline High,130/85,Vegan,No
+Male,40,78,168,27.63,Moderate,Normal,125/80,Paleo,No
+Female,29,62,160,24.22,High,Normal,118/76,Mediterranean,Yes
+Male,38,88,172,29.76,Low,High,140/90,Keto,Yes
+Female,28,68,165,24.98,Moderate,Normal,120/80,Keto,Yes
+Male,35,85,175,27.76,Low,High,140/90,Vegan,No
+Female,42,75,160,29.3,High,Normal,130/85,Paleo,Yes
+Male,30,92,180,28.4,Moderate,Borderline High,135/88,Mediterranean,No
+Female,25,55,158,22.03,High,Normal,115/75,Keto,No
+Male,50,95,178,29.98,Low,High,145/92,Low-Carb,Yes
+Female,33,70,162,26.67,Moderate,Borderline High,130/85,Vegan,No
+Male,40,78,168,27.63,Moderate,Normal,125/80,Paleo,No
+Female,29,62,160,24.22,High,Normal,118/76,Mediterranean,Yes
+Male,38,88,172,29.76,Low,High,140/90,Keto,Yes
